@@ -29,11 +29,12 @@ Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" hei
 <a href="https://jestjs.io" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?w=364&ssl=1" alt="Cypress" height="50"/></a>
 <a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
-<a href="https://reactnavigation.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*OVxQLX_4Zr78m9YRW-FLqg.jpeg" alt="react navigation" height="50"/></a>
+<a href="https://reactnavigation.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pY3vUQFV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ju7oq0dxqhaz1wpm1mv1.png" alt="react navigation" height="50"/></a>
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" height="50"/></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="Trello" height="50"/></a>
 <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="50"/></a>
-<a href="https://www.piskelapp.com/" target="_blank"><img style="margin: 10px" src="https://www.piskelapp.com/static/resources/logo_transparent_small_compact.png" alt="Piskel" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="figma" height="50"/></a>
+<a href="https://www.piskelapp.com/" target="_blank"><img style="margin: 10px" src="https://msbassetttech.weebly.com/uploads/1/3/3/9/13391031/piksel-logo_orig.png" alt="Piskel" height="50"/></a>
 </div>
 <br>
 <br>
