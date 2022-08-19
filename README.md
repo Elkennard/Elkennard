@@ -19,6 +19,7 @@ Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" hei
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://docs.expo.dev/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="Expo" height="50"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="Firebase" height="50"/></a>
+<a href="https://auth0.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/auth0-logo-700A01EF89-seeklogo.com.png" alt="Auth0" height="50"/></a>
 <a href="https://babeljs.io/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="Babel" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fexpressjs%2Fexpressjs-ar21.svg" alt="Express.js" height="50" /></a>
@@ -38,5 +39,5 @@ Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" hei
 
 - 🔭 I’m currently working on a breathing monkey to help people with asthma and anxiety
 - 🌱 I’m currently learning about react.js, react-native and spritesheets
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/emma-kennard/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="www.linkedin.com/in/emma-kennard/" height="50"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/emma-kennard/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="www.linkedin.com/in/emma-kennard/" height="30"/></a>
 - ⚡ Fun fact: I only wrote my first line of code in April 2022
