@@ -25,6 +25,7 @@ Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" hei
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://heroku.com" target="_blank"> <img style="margin: 10px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" alt="heroku" height="50"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://mobile.twitter.com/Cypress_io/photo" alt="Cypress" height="50"/></a>
 <a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
 <a href="https://reactnavigation.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*OVxQLX_4Zr78m9YRW-FLqg.jpeg" alt="react navigation" height="50"/></a>
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" height="50"/></a>
@@ -32,7 +33,7 @@ Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" hei
 <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="50"/></a>
 <a href="https://www.piskelapp.com/" target="_blank"><img style="margin: 10px" src="https://www.piskelapp.com/static/resources/logo_transparent_small_compact.png" alt="Piskel" height="50"/></a>
 </div>
-
+<br>
 
 
 - 🔭 I’m currently working on a breathing monkey to help people with asthma and anxiety
