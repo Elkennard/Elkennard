@@ -6,10 +6,7 @@ The learning curve has been epic and I've only just scratched the surface. I'm a
 
 I'm now looking to break into my first role in tech and can't wait for the learning to continue.
 
-Some of the tech I've experinced so far;
-
-Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" height="50"/></a>
-
+## Some of the tech I've experinced so far;
 <div align="left">
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://svgarchive.com/wp-content/uploads/react-native.svg" alt="React-Native" height="50"/></a>
 <a href="https://beta.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
