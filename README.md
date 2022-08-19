@@ -7,9 +7,13 @@ The learning curve has been epic and I've only just scratched the surface. I'm a
 I'm now looking to break into my first role in tech and can't wait for the learning to continue.
 
 Some of the tech I've experinced so far;
+
+Template: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" height="50"/></a>
+
 <div align="left">
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://svgarchive.com/wp-content/uploads/react-native.svg" alt="React-Native" height="50"/></a>
 <a href="https://beta.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML5" height="50"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -22,14 +26,11 @@ Some of the tech I've experinced so far;
 <a href="https://heroku.com" target="_blank"> <img style="margin: 10px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" alt="heroku" height="50"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
 <a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
-<a href="https://github.com/software-mansion/react-native-reanimated" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/16062886/117443145-ff868480-af37-11eb-8680-648bccf0d0ce.png" alt="reanimated" height="50"/></a>
 <a href="https://reactnavigation.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*OVxQLX_4Zr78m9YRW-FLqg.jpeg" alt="react navigation" height="50"/></a>
-<a href="https://callstack.github.io/react-native-testing-library/" target="_blank"><img style="margin: 10px" src="https://callstack.github.io/react-native-testing-library/img/owl.png" alt="React Native Testing Library" height="50"/></a>
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" height="50"/></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="Trello" height="50"/></a>
 <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="50"/></a>
 <a href="https://www.piskelapp.com/" target="_blank"><img style="margin: 10px" src="https://www.piskelapp.com/static/resources/logo_transparent_small_compact.png" alt="Piskel" height="50"/></a>
-<a href="https://www.aseprite.org/" target="_blank"><img style="margin: 10px" src="https://community.aseprite.org/uploads/default/original/1X/41b8dccda51104ccd560162c19a25b5671eef5f7.png" alt="Aseprite" height="50"/></a>
 </div>
 
 
