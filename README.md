@@ -2,7 +2,7 @@
 
 I've recently made the move to tech and I'm loving it. I spent the last 25 years in the world of corporate events, but I was hungry for a new challenge to get my teeth into and had always loved working with developers on projects. I wanted to understand more and start coding myself.
 
-The learning curve has been epic and I've only just scratched the surface. I'm a recent graduate of the [School of Code](https://www.schoolofcode.co.uk/), a 16-week intensive software development course, focusing on relevant technologies required for today’s business programming. In addition to focusing on React JS and JavaScript (ES6) the course also covered practical workplace skills: e.g., pair programming, agile/scrum, project management.
+The learning curve has been epic and there is so much more to learn. I'm a recent graduate of the [School of Code](https://www.schoolofcode.co.uk/), a 16-week intensive software development course, focusing on relevant technologies required for today’s business programming. In addition to focusing on React JS and JavaScript (ES6) the course also covered practical workplace skills: e.g., pair programming, agile/scrum, project management.
 
 I'm now looking to break into my first role in tech and can't wait for the learning to continue.
 
