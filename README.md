@@ -1,4 +1,4 @@
-### Hi there, I'm Emma...
+## Hi there, I'm Emma...
 
 I've recently made the move to tech and I'm loving it. I spent the last 25 years in the world of corporate events, but I was hungry for a new challenge to get my teeth into and had always loved working with developers on projects. I wanted to understand more and start coding myself.
 
@@ -6,7 +6,7 @@ The learning curve has been epic and I've only just scratched the surface. I'm a
 
 I'm now looking to break into my first role in tech and can't wait for the learning to continue.
 
-## Some of the tech I've experinced so far;
+### Some of the tech I've experinced so far;
 <div align="left">
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://svgarchive.com/wp-content/uploads/react-native.svg" alt="React-Native" height="50"/></a>
 <a href="https://beta.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
