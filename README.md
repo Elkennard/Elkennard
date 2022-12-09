@@ -33,6 +33,10 @@ I'm now looking to break into my first role in tech and can't wait for the learn
 <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="50"/></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="figma" height="50"/></a>
 <a href="https://www.piskelapp.com/" target="_blank"><img style="margin: 10px" src="https://msbassetttech.weebly.com/uploads/1/3/3/9/13391031/piksel-logo_orig.png" alt="Piskel" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" height="50"/></a>
+<a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity" height="50"/></a>
+<a href="https://stripe.com/gb" target="_blank"><img style="margin: 10px" src="https://media.designrush.com/inspiration_images/135143/conversions/_1510164528_150_social-mobile.jpg" alt="Stripe" height="50"/></a>
+  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" height="50"/></a>
 </div>
 <br>
 <br>
