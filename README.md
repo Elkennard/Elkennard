@@ -41,7 +41,7 @@ I'm now looking to break into my first role in tech and can't wait for the learn
 <br>
 <br>
 
-- 🔭 I’m currently working on a breathing monkey to help people with asthma and anxiety
+- 🔭 I’m currently brushing up on my CSS skills
 - 🌱 I’m currently learning about react.js, react-native and spritesheets
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/emma-kennard/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png" alt="www.linkedin.com/in/emma-kennard/" height="20"/></a>
 - ⚡ Fun fact: I only wrote my first line of code in April 2022
